@@ -1,0 +1,22 @@
+-R . MyFancyLib
+./ProofByRewriting.v
+./Basic.v
+./logic_programming.v
+./definition.v
+./DaysOfTheWeek.v
+./Map.v
+./natural_numbers.v
+./Predicate_Calculus2.v
+./Predicate_Calculus.v
+./MyNot.v
+./simple_proof_byinduction.v
+./toto.v
+./induction.v
+./MyInductions.v
+./Predicate.v
+./NatList.v
+./PartialMap.v
+./tactics.v
+./club.v
+./Modules.v
+./ProgrammingWithPropositions.v
